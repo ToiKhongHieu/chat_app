@@ -1,0 +1,9 @@
+redux
+thunk middlewre
+react-redux
+
+react-router-dom
+
+tailwin css
+mui
+react icons
